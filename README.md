@@ -1,6 +1,6 @@
 # Pet Image Classifier
 
-This project's main focus is to use Python to implement pre-trained image classification systems to achieve the following principal objectives:
+All of the TODOs are listed in `check_images.py`. The file got a lot of comments explaining each step. Each function is implemented in its own file and all are commented with explanations as well.
 
 ## Principal Objectives
 
